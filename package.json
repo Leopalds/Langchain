@@ -24,7 +24,7 @@
   },
   "contributors": [],
   "scripts": {
-    "dev": "",
+    "dev": "npx ts-node src/app.ts",
     "test": ""
   },
   "dependencies": {
