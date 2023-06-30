@@ -1,3 +1,4 @@
+//Simple call to OpenAI using langchain
 import * as dotenv from "dotenv";
 import { OpenAI } from "langchain/llms/openai";
 dotenv.config();

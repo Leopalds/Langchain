@@ -1,3 +1,4 @@
+//Prompt template
 import * as dotenv from "dotenv";
 import { PromptTemplate } from "langchain/prompts";
 dotenv.config();

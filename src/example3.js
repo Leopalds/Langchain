@@ -1,3 +1,4 @@
+//Prompt Template and calling OpenAI
 import { OpenAI } from "langchain/llms/openai";
 import { PromptTemplate } from "langchain/prompts";
 import { LLMChain } from "langchain/chains";
