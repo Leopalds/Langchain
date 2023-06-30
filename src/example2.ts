@@ -1,5 +1,4 @@
 import * as dotenv from "dotenv";
-import { OpenAI } from "langchain/llms/openai";
 import { PromptTemplate } from "langchain/prompts";
 
 dotenv.config();

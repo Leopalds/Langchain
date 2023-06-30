@@ -31,7 +31,9 @@
     "@types/node": "^20.3.2",
     "dotenv": "^16.3.1",
     "langchain": "^0.0.100",
-    "openai": "^3.3.0"
+    "openai": "^3.3.0",
+    "readline-sync": "^1.4.10",
+    "typeorm": "^0.3.17"
   },
   "devDependencies": {
     "typescript": "^5.1.6"
